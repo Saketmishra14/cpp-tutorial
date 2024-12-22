@@ -10,5 +10,5 @@ int main(){
     cout<<"enter n -:";
     cin>>n;
     cout<<fact(n);
-    
+   return 0; 
 }

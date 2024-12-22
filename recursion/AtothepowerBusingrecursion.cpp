@@ -14,4 +14,5 @@ int main(){
    cout<<"enter power -:";
     cin>>b;
     cout<<pow(a,b);
+    return 0;
 }

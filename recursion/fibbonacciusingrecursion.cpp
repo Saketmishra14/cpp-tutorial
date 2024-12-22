@@ -9,5 +9,5 @@ int main(){
     cout<<"enter fibbonacci number -:";
     cin>>n;
 cout<<fibo(n);
-     
+     return 0;
 }
